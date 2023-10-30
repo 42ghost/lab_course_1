@@ -13,6 +13,7 @@ int main()
     std::cout << P3 << '\n';
 
 	// Pow
+	P3.pow(2);
 	std::cout << P3 << '\n';
 
 

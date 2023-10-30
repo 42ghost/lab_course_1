@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "my_lab.h"
+#include "polynom.h"
 
 int main()
 {
